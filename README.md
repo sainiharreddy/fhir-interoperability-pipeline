@@ -64,8 +64,8 @@ The pipeline screens raw input vectors against three strict regulatory and clini
     "name": [
       {
         "use": "official",
-        "family": "Heusen",
-        "given": ["Van"]
+        "family": "Smith",
+        "given": ["John"]
       }
     ],
     "gender": "male",
